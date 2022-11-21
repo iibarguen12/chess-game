@@ -1,4 +1,13 @@
+# Ignore Mac OS Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#IDE
+.idea/
+
 # Compiled class file
+target/
 *.class
 
 # Log file
