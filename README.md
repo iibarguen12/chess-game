@@ -1,4 +1,4 @@
-# Chess
+# Chess Game in Java
 
 This Java program implements the basic logic of the Chess game for two human players.
 
