@@ -48,3 +48,5 @@ The GUI is made using java.awt and javax.swing, creating a simple 8x8 Tile grid 
 the corresponding images, first the light or dark board images and then the black and white images corresponding 
 to each Piece, this plus adding an event listener for the mouse click, redrawing the board at each click making the 
 effect of movement possible.
+
+![img.png](img.png)
